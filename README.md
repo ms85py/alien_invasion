@@ -9,5 +9,5 @@ The game also has a Score and High Score system to keep track of how well you've
 
 I've done this project because I found making 2d games with Python quite interesting, but after I was done I learned that it's...different and not my cup of tea.
 
-To start the game you'll just have to rune the 'game.py' file and you're all set.
+To start the game you'll just have to run the 'game.py' file and you're all set.
 
